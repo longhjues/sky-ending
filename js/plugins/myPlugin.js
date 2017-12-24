@@ -139,3 +139,5 @@ Window_BattleEnemy.prototype.numVisibleRows = function () {
 Window_BattleEnemy.prototype.maxCols = function () {
     return 4
 };
+
+//--------------------
